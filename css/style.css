@@ -25,7 +25,21 @@ header{
 .navbar .nav-icon{
     display: none;
 }
-
+/* bottom-nav-items */
+.bottom-nav-items .nav-linkss h1{
+font-size: 1.3em;
+font-weight: 600;
+color: #ffffff;
+}
+.bottom-nav-items .nav-linkss p{
+    margin: 6% 3%;
+    color:beige;
+    font-weight: normal;
+}
+.bottom-nav-items .nav-linkss p:hover{
+    color: aliceblue;
+    cursor: pointer;
+}
 /* ---------media query----------- */
 @media only screen and (max-width: 768px) {
   .navbar .nav-list{
