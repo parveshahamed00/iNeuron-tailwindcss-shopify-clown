@@ -1,4 +1,4 @@
-# Shopify Clown
+# Shopify Clone
 
 This is my assignment designed for [iNeuron.](https://ineuron.ai/)
 
@@ -6,7 +6,7 @@ This is my assignment designed for [iNeuron.](https://ineuron.ai/)
 
 ![App GIF](GIF/Shopify-clown-Google-Chrome-2022.gif)
 
-[Live Demo](https://parveshahamed-shopify-clown.netlify.app/)
+[Live Demo](https://parveshahamed-shopify-clone.netlify.app/)
 
 > Build fully responsive using HTML, CSS and Tailwindcss
 
